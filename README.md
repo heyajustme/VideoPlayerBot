@@ -19,7 +19,7 @@ An Telegram Bot By [@AsmSafone](https://t.me/AsmSafone) To Stream Videos in Tele
 - Supports Live Streaming.
 - Supports YouTube Streaming.
 - Supports Live Radio Streaming.
-- Supports Video Files Streaming.
+- Supports Video Files Streaming.hi
 - Supports YouTube Live Streaming.
 - User Account Protection (PM Guard)
 
